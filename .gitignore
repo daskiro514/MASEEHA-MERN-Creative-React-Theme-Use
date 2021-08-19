@@ -1,0 +1,8 @@
+node_modules/
+files/
+uploads/
+config/production.json
+config/default.json
+client/build
+client/node_modules/
+client/.eslintcache
