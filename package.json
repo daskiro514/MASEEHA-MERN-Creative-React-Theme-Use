@@ -1,7 +1,7 @@
 {
-  "name": "devconnector",
+  "name": "maseeha",
   "version": "1.0.0",
-  "description": "Social network for developers",
+  "description": "Maseeha Portal Website",
   "main": "server.js",
   "scripts": {
     "start": "node server",
@@ -10,7 +10,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
   },
-  "author": "Brad Traversy",
+  "author": "Daskiro King",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
